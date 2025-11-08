@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5622AQGwiBSolK4nxA/feedshare-shrink_800/B56Zpk.DAbG0Ag-/0/1762630584079?e=1764201600&v=beta&t=80Pth3hP3pOplz2MJ5XGRbrbwtr_vefaDnlviUeotSg">
+<img src="https://media.licdn.com/dms/image/v2/D5622AQHPne_OSgB3Lw/feedshare-shrink_800/B56ZplE9S5JsAg-/0/1762632392986?e=1764201600&v=beta&t=TKgNlIyQB9GEU-VWisZw_w_LGtSAIKoNgUJVJ1oLw3k">
 <h3 align="center">A passionate Full Stack Web Developer | Experienced, Passionate, and Creative | Building High-Quality Web Applicationsrontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a1mitun&label=Profile%20views&color=0e75b6&style=flat" alt="a1mitun" /> </p>
